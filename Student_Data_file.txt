@@ -1,0 +1,5 @@
+1,[Name:Jagan],[Age:21],[dob:27/02/2003],[class:A],[C:97 C++:98 Java:99 Python:95 Kotlin:92],[Percentage:96],[Grade:A+]
+2,[Name:Jagadish],[Age:21],[dob:20/08/2002],[class:B],[C:99 C++:80 Java:90 Python:96 Kotlin:75],[Percentage:92],[Grade:A+]
+3,[Name:Divakar Thiruvengadam Ravichandran],[Age:21],[dob:26/08/2002],[class:A],[C:100 C++:100 Java:100 Python:100 Kotlin:99],[Percentage:95],[Grade:A+]
+4,[Name:Akilesh Purandaradoss],[Age:21],[dob:23/07/2003],[class:A],[C:100 C++:95 Java:98 Python:98 Kotlin:70],[Percentage:92],[Grade:A+]
+5,[Name:Laksha Balaguru],[Age:21],[dob:13/10/2003],[class:A],[C:70 C++:80 Java:80 Python:70 Kotlin:50],[Percentage:76],[Grade:B]
